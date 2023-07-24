@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="telegram" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 124 124" style="enable-background:new 0 0 124 124;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:url(#SVGID_1_);stroke-width:2;stroke-miterlimit:10;}
+	.st1{fill:none;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#00A147;}
+</style>
+<g>
+	<polyline points="11.4,92.3 11.8,32.8 62.7,3.5 113.7,32.8 113.7,92.3 62.5,121.3 	"/>
+	<g>
+		
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="9.8931" y1="63.5483" x2="114.5" y2="63.5483" gradientTransform="matrix(1 0 0 -1 0 126)">
+			<stop  offset="0" style="stop-color:#179232"/>
+			<stop  offset="0.5" style="stop-color:#80C41C"/>
+			<stop  offset="1" style="stop-color:#189232"/>
+		</linearGradient>
+		<polygon class="st0" points="10.9,33.2 63.1,3.2 113.5,32.5 113.5,92 62.2,121.7 11.6,91.8 		"/>
+	</g>
+</g>
+<rect x="50" y="50" class="st1" width="24" height="24"/>
+<g id="SVGRepo_bgCarrier">
+</g>
+<g id="SVGRepo_tracerCarrier">
+</g>
+<g id="SVGRepo_iconCarrier">
+	<desc>Created with Sketch.</desc>
+	<g id="Icons">
+		<g id="Color-" transform="translate(-800.000000, -566.000000)">
+			<path id="Reddit" class="st2" d="M872.8,637.5c-2.6,0-4.7-2.1-4.7-4.6c0-2.6,2.2-4.7,4.7-4.7s4.7,2.1,4.7,4.7
+				C877.5,635.5,875.4,637.5,872.8,637.5 M873.9,646.5c-2.4,2.4-6.1,3.5-11.3,3.5c0,0,0,0,0,0c0,0,0,0,0,0c-5.2,0-8.9-1.2-11.3-3.5
+				c-0.7-0.7-0.7-1.9,0-2.6c0.7-0.7,1.9-0.7,2.7,0c1.7,1.6,4.5,2.4,8.6,2.4c0,0,0,0,0,0c0,0,0,0,0,0c4.2,0,7-0.8,8.6-2.4
+				c0.7-0.7,1.9-0.7,2.7,0C874.6,644.6,874.6,645.8,873.9,646.5 M847.6,632.9c0-2.5,2.2-4.7,4.7-4.7c2.6,0,4.7,2.1,4.7,4.7
+				c0,2.6-2.1,4.6-4.7,4.6C849.8,637.5,847.6,635.5,847.6,632.9 M885.5,603.5c1.7,0,3.2,1.4,3.2,3.1c0,1.7-1.4,3.1-3.2,3.1
+				c-1.7,0-3.2-1.4-3.2-3.1C882.3,604.9,883.8,603.5,885.5,603.5 M897,627.8c0-4.5-3.7-8.2-8.3-8.2c-2,0-3.8,0.7-5.2,1.8
+				c-5-3.1-11.5-5-18.3-5.4l3.6-11.2l9.8,2.3c0.3,3.6,3.3,6.4,6.9,6.4c3.8,0,6.9-3.1,6.9-6.9c0-3.8-3.1-6.9-6.9-6.9
+				c-2.7,0-5,1.5-6.1,3.7l-11.4-2.7c-1-0.2-1.9,0.3-2.2,1.3l-4.4,13.9c-7.4,0.2-14.4,2.1-19.8,5.4c-1.4-1.1-3.2-1.7-5.1-1.7
+				c-4.6,0-8.3,3.7-8.3,8.2c0,2.8,1.4,5.3,3.6,6.8c-0.1,0.7-0.1,1.3-0.1,2c0,5.7,3.3,10.9,9.3,14.8c5.8,3.7,13.4,5.8,21.5,5.8
+				c8.1,0,15.7-2.1,21.5-5.8c6-3.9,9.3-9.2,9.3-14.8c0-0.6,0-1.2-0.1-1.8C895.5,633.3,897,630.7,897,627.8"/>
+		</g>
+	</g>
+</g>
+</svg>
